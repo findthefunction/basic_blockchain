@@ -4,7 +4,8 @@ Simple blockchain for review of mechanics.
 
 voila
 
-Blockchain: 
+Blockchain:
+```
 [{'index': 1,
   'previous_hash': 'Coding with Reinus',
   'timestamp': 1645078090.6671488,
@@ -33,3 +34,4 @@ Blockchain:
                    {'amount': '450 ETH',
                     'recipient': 'my_acount',
                     'sender': 'account_2'}]}]
+```
